@@ -1,0 +1,30 @@
+{
+  "name": "black-gold",
+  "displayName": "Black & Gold",
+  "description": "A black & gold theme for VS Code",
+  "publisher": "PatrickDanilevici",
+  "repository": {
+    "url": "https://github.com/mafsi/Black-Gold-VS-Code-Theme"
+  },
+  "keywords": ["gold", "black"],
+  "icon": "crown.png",
+  "author": {
+    "name": "Patrick Danilevici"
+  },
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.57.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Black Gold Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Black Gold Theme-color-theme.json"
+      }
+    ]
+  }
+}

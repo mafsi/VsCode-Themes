@@ -1,0 +1,33 @@
+{
+  "name": "grey",
+  "displayName": "Grey Theme",
+  "description": "A grey theme for VS Code",
+  "publisher": "PatrickDanilevici",
+  "repository": {
+    "url": "https://github.com/mafsi/Black-Gold-VS-Code-Theme"
+  },
+  "keywords": [
+    "grey",
+    "black"
+  ],
+  "icon": "greyLogo.png",
+  "author": {
+    "name": "Patrick Danilevici"
+  },
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.57.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Grey Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/grey-theme.json"
+      }
+    ]
+  }
+}
