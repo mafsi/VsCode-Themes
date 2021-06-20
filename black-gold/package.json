@@ -4,9 +4,12 @@
   "description": "A black & gold theme for VS Code",
   "publisher": "PatrickDanilevici",
   "repository": {
-    "url": "https://github.com/mafsi/Black-Gold-VS-Code-Theme"
+    "url": "https://github.com/mafsi/VsCode-Themes"
   },
-  "keywords": ["gold", "black"],
+  "keywords": [
+    "gold",
+    "black"
+  ],
   "icon": "crown.png",
   "author": {
     "name": "Patrick Danilevici"

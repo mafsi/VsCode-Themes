@@ -1,7 +1,5 @@
 # Black & Gold Theme for VS Code
 
-This is my first theme made for VS Code.
-
 ## Instalation
 
 ### Manual instalation
@@ -17,14 +15,14 @@ Obvious :)
 
 ### Main Window
 
-![](ss_mainWindow.png)
+![](/black-gold/ss_mainWindow.png)
 
 ### Settings Window
 
-![](ss_settings.png)
+![](/black-gold/ss_settings.png)
 
 ### Markdown Colors
 
-![](ss_markdown.png)
+![](/black-gold/ss_markdown.png)
 
 Happy coding!

@@ -1,24 +1,13 @@
-# Black & Gold Theme for VS Code
+# Themes for Vs Code
 
-This is my first theme made for VS Code.
+Check out the themes for VS Code.
 
-## Instalation
+## Manual Instalation
 
-Go to `black-gold` directory and install manually `black-gold-0.0.1.vsix`
-Then press `F1` in VS Code `Preferences Color theme` and select `Black Gold Theme`.
+Go to theme folder and download `.vsix` theme and install manually
 
-## Screenshosts
+## MarketPlace instalation
 
-### Main Window
+[Follow the link](https://marketplace.visualstudio.com/publishers/PatrickDanilevici)
 
-![](img/ss_mainWindow.png)
-
-### Settings Window
-
-![](img/ss_settings.png)
-
-### Markdown Colors
-
-![](img/ss_markdown.png)
-
-Happy coding!
+Happy Coding!
