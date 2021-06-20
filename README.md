@@ -11,3 +11,8 @@ Go to theme folder and download `.vsix` theme and install manually
 [Follow the link](https://marketplace.visualstudio.com/publishers/PatrickDanilevici)
 
 Happy Coding!
+
+---
+#### Buy me a coffee!
+
+[Paypal](https://paypal.me/mafsi)
