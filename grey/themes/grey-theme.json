@@ -175,6 +175,7 @@
     "tab.unfocusedActiveForeground": "#ABABB0",
     "tab.unfocusedInactiveBackground": "#8D8D9110",
     "tab.unfocusedInactiveForeground": "#ABABB07f",
+
     "terminal.ansiBlack": "#303032",
     "terminal.ansiBlue": "#B3B3B5",
     "terminal.ansiBrightBlack": "#8D8D91",
@@ -193,6 +194,7 @@
     "terminal.ansiYellow": "#D9D9DA",
     "terminalCursor.background": "#303032",
     "terminalCursor.foreground": "#D9D9DA",
+
     "textLink.activeForeground": "#ABABB0",
     "textLink.foreground": "#8D8D91",
     "titleBar.activeBackground": "#303032",

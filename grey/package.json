@@ -4,6 +4,7 @@
   "description": "A grey theme for VS Code",
   "publisher": "PatrickDanilevici",
   "repository": {
+    "type": "git",
     "url": "https://github.com/mafsi/VsCode-Themes/tree/master/grey"
   },
   "keywords": [
